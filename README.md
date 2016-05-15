@@ -60,15 +60,15 @@ In your web browser navigate to localhost:4000 and you can start using the appli
 
 ![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/home.PNG "Home Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/about.PNG "About Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/about.PNG "About Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/users.PNG "Users Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/users.PNG "Users Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/userdetails.PNG "User Details Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/userdetails.PNG "User Details Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/smartgoals.PNG "Smartgoals Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/smartgoals.PNG "Smartgoals Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/addsmartgoal.PNG "Add Smart Goal Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/addsmartgoal.PNG "Add Smart Goal Screen")
 
 
 ------
