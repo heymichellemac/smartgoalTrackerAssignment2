@@ -1,9 +1,5 @@
 html,body{height:100%;}
 
-.glyphicon-thumbs-up { 
-	cursor:pointer 
-}
-
 .main-text { 
 	font-size:20px; margin-left:10px;
 }
@@ -16,7 +12,9 @@ html,body{height:100%;}
 	background-size:cover;
 	background-color: #009688;
 }
-
+.greenFont{
+	color:#009688;
+}
 .whiteBoxHome{
 	width:90%;
 	margin: 0 auto;
@@ -30,6 +28,7 @@ html,body{height:100%;}
 	box-shadow: 2px 2px 3px #777;
 	margin-bottom: 5em;
 	margin-top: 5em;
+	padding:2em;
 
 }
 .whiteBox{
