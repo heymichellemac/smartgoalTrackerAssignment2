@@ -48,27 +48,27 @@ In your web browser navigate to localhost:4000 and you can start using the appli
 ------
 
 ###Data Model Design
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/smartgoaldiagram.png "Data Model Design")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/appDesign.PNG "Data Model Design")
 ------
 
 ###App Design
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/Diagram.png "App Design")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/dataModelDesign.PNG "App Design")
 
 ------
 
 ###UI Design
 
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/homepage.PNG "Home Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/home.PNG "Home Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/loginpage.PNG "Login Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/about.PNG "About Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/profile.PNG "Profile Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/users.PNG "Users Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/register.PNG "Register Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/userdetails.PNG "User Details Screen")
 ------
 ![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/smartgoals.PNG "Smartgoals Screen")
 ------
-![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/individsmartgoal.PNG "Individual Smart Goal Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalproject/blob/master/projectFiles/addsmartgoal.PNG "Add Smart Goal Screen")
 
 
 ------
