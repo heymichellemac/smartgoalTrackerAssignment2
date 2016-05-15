@@ -1,14 +1,43 @@
 {
-    "name": "smartGoalApp",
-    "version": "0.0.1",
-    "dependencies": {
-        "express": "~4.0.0",
-        "debug": "~0.7.4",
-        "morgan": "~1.0.0",
-        "body-parser": "~1.0.0",
-        "errorhandler": "~1.0.0",
-        "lodash": "~2.4.1",
-        "cookie-parser": "~1.0.1",
-        "mongoose": "~3.8.8"
-     }
+  "name": "smartgoalapp",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.0.0",
+    "debug": "~0.7.4",
+    "node": "4.1.1"
+    "morgan": "~1.0.0",
+    "body-parser": "~1.0.0",
+    "errorhandler": "~1.0.0",
+    "lodash": "~2.4.1",
+    "cookie-parser": "~1.0.1",
+    "mongoose": "~3.8.8"
+  },
+  "description": "======\r **Name:** Michelle McCausland\r **Student Number:** 20046556",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishacreatrix/smartgoalTrackerAssignment2.git"
+  },
+  "keywords": [
+    "Smart",
+    "Goal",
+    "tracker",
+    "app",
+    "mongo",
+    "mean",
+    "stack"
+  ],
+  "author": "Michelle McCausland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishacreatrix/smartgoalTrackerAssignment2/issues"
+  },
+    "engines": {
+    "node": "4.1.1"
+  },
+  "homepage": "https://github.com/mishacreatrix/smartgoalTrackerAssignment2#readme"
 }
