@@ -1,0 +1,57 @@
+<br><br><br><br>
+
+<div class="container whiteBox">
+  <div class="row">
+    <h2>User Details</h2><hr>
+
+  	<div ng-switch="user.state">
+
+      <!-- edit state -->
+      <div ng-switch-when="edit">
+      <h3>Username: </h3> <input type="text" class="form-control" ng-model="user.username" />
+      <h3>First Name: </h3><input type="text" class="form-control" ng-model="user.firstname" />
+      <h3>Last Name: </h3><input type="text" class="form-control" ng-model="user.lastname" />
+      <h3>Email: </h3><input type="text" class="form-control" ng-model="user.email" />
+      <h3>Job Title: </h3><input type="text" class="form-control" ng-model="user.jobtitle" />
+      <h3>Password: </h3><input type="text" class="form-control" ng-model="user.password" /><br>
+
+      <input type="button" class="btn btn-lg  btn-success" ng-click="saveUser(user)" value="Save" />
+      
+      <input type="button" class="btn btn-lg btn-danger" ng-click="cancelEdit(user);" value="Cancel" />
+      <hr>
+      </div>
+
+      <!-- delete state -->
+      <div class="danger" ng-switch-when="deleted">
+        <h2>Delete User: {{user.username}}</h2>
+
+        <input type="button" class="btn btn-lg btn-danger" ng-click="confirmDelete(user)" value="Confirm" />
+
+        <input type="button" class="btn btn-lg btn-success" ng-click="undoDelete(user)" value="Undo"/>
+        <hr>
+      </div>
+
+      <!-- default state -->
+      <div ng-switch-default>
+        <h3><b>Username:</b> {{user.username}}</h3>
+        <h3><b>Name:</b> {{user.firstname}} {{user.lastname}}</h3>
+        <h3><b>Email:</b> {{user.email}}</h3>
+        <h3><b>Job Title:</b> {{user.jobtitle}}</h3><br>
+        
+        <!-- edit button -->
+        <button type="button" class="btn btn-lg btn-default">
+        <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><a ng-click="editUser(user)"> Edit</a>
+        </button>
+        
+        <!-- Delete button -->
+        <button type="button" class="btn btn-lg btn-danger">
+        <span class="glyphicon glyphicon-trash" aria-hidden="true"></span><a class="whiteLink" ng-click="deleteUser(user)"> Delete</a>
+        </button>
+        <hr>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
