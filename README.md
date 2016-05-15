@@ -58,7 +58,7 @@ In your web browser navigate to localhost:4000 and you can start using the appli
 
 ###UI Design
 
-![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/home.PNG "Home Screen")
+![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/homepage.PNG "Home Screen")
 ------
 ![alt text](https://github.com/mishacreatrix/smartgoalTrackerAssignment2/blob/master/projectfiles/about.PNG "About Screen")
 ------
