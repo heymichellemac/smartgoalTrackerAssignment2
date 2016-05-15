@@ -19,6 +19,7 @@ Users can create, edit or delete smart goals as well as look at their own user i
 + Search feature built in to allow you to search for smart goals and for users
 + bootstrap accordion for display of smart goals
 + Mongo DB back end to hold application data
++ Custom directives including navbar directive
 
 ------
 
@@ -38,8 +39,6 @@ In order to run the project navigate to the root of the project on the command l
 
 
 ```javascript
-node seed.js
-
 node app.js
 ```
 
