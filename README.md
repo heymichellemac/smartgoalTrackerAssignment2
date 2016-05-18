@@ -86,10 +86,10 @@ In your web browser navigate to localhost:4000 and you can start using the appli
 ###API Routing
 
 
-|GET | '/' | shows all users
-|GET | '/:id' | Shows a specific user
-|POST | '/' | Creates a new user
-|POST | '/:id/smartgoals' |  Adds a new smartgoal
+GET  '/'  shows all users
+GET  '/:id'  Shows a specific user
+POST  '/'  Creates a new user
+POST  '/:id/smartgoals'  Adds a new smartgoal
 
 ------
 
